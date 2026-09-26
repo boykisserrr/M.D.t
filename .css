@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://boykisserrr.github.io/My-Discord-theme/background.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://boykisserrr.github.io/My-Discord-theme/.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -39,7 +39,7 @@
   /*
    * Home image variables
    */
-  --home-button-image: url("https://riiileyyy.github.io/My-Discord-theme/discord.svg"); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --home-button-image: url("https://riiileyyy.github.io/My-Discord-theme/.svg"); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --home-button-size: 60%; /* Size of the home button image | DEFAUT: cover */
   --home-button-position: center; /* Position of home button image | DEAFULT: center */
   /*
