@@ -1,11 +1,9 @@
+# My Discord theme
+ 
  ## ❗ Disclamer
-[I](https://github.com/Riiileyyy) didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) [i](https://github.com/Riiileyyy) just modified it credits to the [original creator](https://gibbu.dev/) of the [theme](https://github.com/discordStyles/FrostedGlass/) :3
-<!-- im skipping line 6 and 7 so no one can make the joke that my code is on the "funny number" -->
-
-
-
+[I](https://github.com/boykisserrr) didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) [i](https://github.com/boykisserrr) just modified it credits to the [original creator](https://gibbu.dev/) of the [theme](https://github.com/discordStyles/FrostedGlass/) :3
 
 ## Link for online themes
 ```
-https://riiileyyy.github.io/My-Discord-theme/My-Discord-theme.css
+https://boykisserrr.github.io/M.D.t/.css
 ```
