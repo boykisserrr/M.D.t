@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://boykisserrr.github.io/My-Discord-theme/b.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://boykisserrr.github.io/M.D.t/b.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -39,7 +39,7 @@
   /*
    * Home image variables
    */
-  --home-button-image: url("https://boykisserrr.github.io/My-Discord-theme//d.svg"); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --home-button-image: url("https://boykisserrr.github.io/M.D.t//d.svg"); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --home-button-size: 60%; /* Size of the home button image | DEFAUT: cover */
   --home-button-position: center; /* Position of home button image | DEAFULT: center */
   /*
@@ -74,28 +74,28 @@
     */
 @font-face {
   font-family: "Comic Sans MS";
-  src: url('https://boykisserrr.github.io/My-Discord-theme/fonts/comic.ttf') format('truetype');
+  src: url('https://boykisserrr.github.io/M.D.t/fonts/comic.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Comic Sans MS";
-  src: url('https://boykisserrr.github.io/My-Discord-theme/fonts/comicbd.ttf') format('truetype');
+  src: url('https://boykisserrr.github.io/M.D.t/fonts/comicbd.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Comic Sans MS";
-  src: url('https://boykisserrr.github.io/My-Discord-theme/fonts/comici.ttf') format('truetype');
+  src: url('https://boykisserrr.github.io/M.D.t/fonts/comici.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Comic Sans MS";
-  src: url('https://boykisserrr.github.io/My-Discord-theme/fonts/comicz.ttf') format('truetype');
+  src: url('https://boykisserrr.github.io/M.D.t/fonts/comicz.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
 }
