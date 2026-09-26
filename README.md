@@ -5,5 +5,5 @@
 
 ## Link for online themes
 ```
-https://boykisserrr.github.io/M.D.t/.css
+https://boykisserrr.github.io/M.D.t/t.css
 ```
